@@ -1,5 +1,5 @@
 # scripter
-this program can records mouse and keyboard input and play them back at any time
+this program can record mouse and keyboard input and play them back at any time
 # requirement 
 -python 3 (i dont know if it works with older versions of python too)  
 -python 'mouse' library   
