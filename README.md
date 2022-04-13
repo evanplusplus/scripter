@@ -6,6 +6,7 @@ this program can records mouse and keyboard input and play them back at any time
 -python 'keyboard' library  
 
 # how 2 use
+open 'scripter.py' with python  
 press the 'start' button for start listening to keyboard input,  
 where you can press either the record or the play key.  
 macros can be saved, deleted and selected by writing the macro name on the text widget,  
